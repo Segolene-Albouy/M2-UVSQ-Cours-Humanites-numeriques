@@ -12,19 +12,19 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 | Nettoyer ses données                      | Lucie Vieillon  | 22 octobre  |  9h-12h  |
 | Grands principes des bases de données     | Lucie Vieillon  | 12 novembre |  10h-12h |
 | Modéliser ses données avec Heurist        | Ségolène Albouy | 19 novembre |  9h-12h  |
-| Publier ses recherches sur le Web         | Ségolène Albouy | 26 novembre |  10h-12h |
+| Publier son corpus sur le Web             | Ségolène Albouy | 26 novembre |  10h-12h |
 | Intro aux statistiques et visualisations  | Ségolène Albouy | 3 décembre  |  9h-12h  |
 | Web sémantique                            | Lucie Vieillon  | 10 décembre |  9h-12h  |
 | Médiation des données                     | Ségolène Albouy | 17 décembre |  10h-12h |
 
 ## Évaluation
 
-| Catégorie             | Attentes                                                                                                                |
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Date de rendu         | 17 décembre au plus tard                                                                                                |
-| Format                | Livrable de maximum 10 pages                                                                                            |
-| Description           | Compte rendu critique de l’utilisation d’un outil présenté lors du cours appliqué au corpus de recherche de l’étudiant. |
-| Critères d'évaluation |                                                                                                                         |
+| Catégorie             | Attentes                                                                                                                                                                                                                                                                                                                                                                                        |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Date de rendu         | 17 décembre au plus tard                                                                                                                                                                                                                                                                                                                                                                        |
+| Format                | Livrable de maximum 10 pages                                                                                                                                                                                                                                                                                                                                                                    |
+| Description           | Compte rendu critique de l’utilisation d’un outil présenté lors du cours, appliqué au corpus de recherche de l’étudiant                                                                                                                                                                                                                                                                         |
+| Critères d'évaluation | Exploitation des fonctionnalités de l’outil Analyse des avantages/inconvénients de la méthode numérique employée Recherche vis-à-vis de l’état de l’art et des technologies existantes similaires à l’outil sélectionné Descriptif de la démarche utilisée pour obtenir le livrable Commentaire sur les choix éditoriaux, techniques et scientifiques effectués pour la réalisation du livrable |
 
 
 ### Exemples de livrables
