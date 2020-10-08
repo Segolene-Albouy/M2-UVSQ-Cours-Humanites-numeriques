@@ -12,7 +12,7 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 | Nettoyer ses données                      | Lucie Vieillon  | 22 octobre  |  9h-12h  |
 | Grands principes des bases de données     | Lucie Vieillon  | 12 novembre |  10h-12h |
 | Modéliser ses données avec Heurist        | Ségolène Albouy | 19 novembre |  9h-12h  |
-| Publier ses données avec Heurist          | Ségolène Albouy | 26 novembre |  10h-12h |
+| Publier ses recherches sur le Web          | Ségolène Albouy | 26 novembre |  10h-12h |
 | Intro aux statistiques et visualisations  | Ségolène Albouy | 3 décembre  |  9h-12h  |
 | Web sémantique                            | Lucie Vieillon  | 10 décembre |  9h-12h  |
 | Médiation des données                     | Ségolène Albouy | 17 décembre |  10h-12h |
