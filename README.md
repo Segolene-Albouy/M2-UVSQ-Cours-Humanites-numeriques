@@ -19,6 +19,7 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 
 ## Évaluation
 
+| Catégorie             | Attentes                                                                                                                |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------|
 | Date de rendu         | 17 décembre au plus tard                                                                                                |
 | Format                | Livrable de maximum 10 pages                                                                                            |
