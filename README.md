@@ -19,13 +19,17 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 
 ## Évaluation
 
-| Date de rendu         | 17 décembre au plus tard  |                                                                                                               
-| Format                | Livrable de maximum 10 pages    |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Date de rendu         | 17 décembre au plus tard                                                                                                |
+| Format                | Livrable de maximum 10 pages                                                                                            |
 | Description           | Compte rendu critique de l’utilisation d’un outil présenté lors du cours appliqué au corpus de recherche de l’étudiant. |
-| Critères d'évaluation |         |
-| Exemples de livrables | Transcription d’un ressource numérisée avec Transkribus accompagnée d’un état de l’art sur les outils de transcription|
-                        | Ensemble de données nettoyé avec Dataïku / OpenRefine accompagné d’un document décrivant les enjeux et difficultés liés aux corpus|
-                        | Base de données créée avec Heurist avec un commentaire approfondi sur les choix de modélisation du corpus|
-                        | Création d’un petit site vitrine créé avec un CMS pour présenter le corpus de recherche accompagné d’une présentation des choix éditoriaux effectués|
-                        | Ensemble de visualisations pertinentes pour présenter le corpus de recherche avec explication des formes graphiques sélectionnées|
-                        | Ensemble de requêtes Sparql pour l’interrogation de dépôts de données Web sémantique avec traductions et explication des procédés utilisés|
+| Critères d'évaluation |                                                                                                                         |
+
+
+### Exemples de livrables
+
+- Ensemble de données nettoyé avec Dataïku / OpenRefine accompagné d’un document décrivant les enjeux et difficultés liés aux corpus
+- Base de données créée avec Heurist avec un commentaire approfondi sur les choix de modélisation du corpus
+- Création d’un petit site vitrine créé avec un CMS pour présenter le corpus de recherche accompagné d’une présentation des choix éditoriaux effectués
+- Ensemble de visualisations pertinentes pour présenter le corpus de recherche avec explication des formes graphiques sélectionnées
+- Ensemble de requêtes Sparql pour l’interrogation de dépôts de données Web sémantique avec traductions et explication des procédés utilisés
