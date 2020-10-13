@@ -34,3 +34,11 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 - Création d’un petit site vitrine créé avec un CMS pour présenter le corpus de recherche accompagné d’une présentation des choix éditoriaux effectués
 - Ensemble de visualisations pertinentes pour présenter le corpus de recherche avec explication des formes graphiques sélectionnées
 - Ensemble de requêtes Sparql pour l’interrogation de dépôts de données Web sémantique avec traductions et explication des procédés utilisés
+
+## Ressources
+CAVALIÉ, Étienne (dir.) ; et al. *Expérimenter les humanités numériques : Des outils individuels aux projets collectifs*. Montréal : Presses de l’Université de Montréal, 2017. url : <http://books.openedition.org/pum/11091>. ISBN : 9791036501739. DOI : https://doi.org/10.4000/books.pum.11091.
+
+DE WILDE, Max  ; et al. *Introduction aux humanités numériques : méthodes et pratiques*. Louvain : De Boeck, 2016. url : <https://www.deboecksuperieur.com/ouvrage/9782807302150-introduction-aux-humanites-numeriques-methodes-et-pratiques>. ISBN : 9782807302150.
+
+DACOS, Marin ; MOUNIER, Pierre ; *Humanités numériques, État des lieux et positionnement de la recherche française dans le contexte international*. [Rapport de recherche] Paris : Institut français, 2015. url : <https://www.enssib.fr/bibliotheque-numerique/documents/65357-humanites-numeriques-etat-des-lieux-et-positionnement-de-la-recherche-francaise-dans-le-contexte-international.pdf>. ISBN : 9782354761080.
+
