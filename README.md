@@ -19,6 +19,8 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 
 ## Évaluation
 
+**Format** : un pdf entre 5 et 10 pages (police 12pt) avec un livrable issu de l'utilisation de d'outil à part, ou intégré par des illustrations à la note explicative.
+
 | Catégorie             | Attentes                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Date de rendu         | 17 décembre au plus tard                                                                                                                                                                                                                                                                                                                                                                        |
@@ -26,6 +28,19 @@ Ce *repository* constitue un dépôt pour le contenu pédagogique du cours Human
 | Description           | Compte rendu critique de l’utilisation d’un outil présenté lors du cours, appliqué au corpus de recherche de l’étudiant                                                                                                                                                                                                                                                                         |
 | Critères d'évaluation | Exploitation des fonctionnalités de l’outil<br>Analyse des avantages/inconvénients de la méthode numérique employée<br>Recherche vis-à-vis de l’état de l’art et des technologies existantes similaires à l’outil sélectionné<br>Descriptif de la démarche utilisée pour obtenir le livrable<br>Commentaire sur les choix éditoriaux, techniques et scientifiques effectués pour la réalisation du livrable |
 
+### Barême de notation
+
+| Critères                                                                                       | Note |
+|------------------------------------------------------------------------------------------------|------|
+| Utilisation d'outil numérique appliqué au travail de recherche                                 | 3    |
+| Mise en application de ce dernier au regard de la problématique du mémoire                     | 3    |
+| Justification du choix de l'outil (pourquoi ?)                                                 | 3,5  |
+| Explication de l'utilisation de l'outil (comment ?)                                            | 3    |
+| Analyse de l'intérêt – positif ou négatif – de l'outil pour le travail du mémoire (résultat ?) | 3,5  |
+| Compréhension de l'intérêt des Humanités Numériques en SHS                                     | 2    |
+| État de l'art                                                                                  | 0,5  |
+| Bibliographie                                                                                  | 0,5  |
+| Expression écrite                                                                              | 1    |
 
 ### Exemples de livrables
 
